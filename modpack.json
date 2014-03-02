@@ -8,7 +8,27 @@
           "mcversion" : "1.6.4",
           "forgever" : "9.11.1.965",
           "mods" : {
-            "thaumcraft" : "4.0.5b"
+	    "ae": "rv13.c",
+	    "codechickencore": "0.9.0.7",
+	    "compactsolars": "4.4.19.238",
+	    "computercraft": "1.57",
+	    "damageindicators": "2.9.2.2",
+	    "extrautilities": "1.0.2",
+	    "ic2": "2.0.345",
+	    "invtweaks": "1.56",
+	    "ironchests": "5.4.1.663",
+	    "jabba": "1.0.3",
+	    "mffs": "3.5.0.255",
+	    "mystcraft": "0.10.11.00",
+	    "nei": "1.6.1.8",
+	    "neiaddons": "1.9.4.r51",
+	    "neiplugins": "1.1.0.6",
+	    "openperipheral": "0.2.1.111",
+	    "railcraft": "8.3.2.0",
+	    "stevescarts": "2.0.0.b3",
+	    "suntorch": "1.2.1",
+	    "thaumcraft": "4.0.5b",
+	    "zansminimap": "1.6.4a"
           }
       }
     }
