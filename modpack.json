@@ -1,0 +1,15 @@
+{
+  "description" : "A pack",
+  "url" : "http://verypack.com",
+  "versions" : {
+      "0.1" : {
+          "recommended" : true,
+          "latest" : true,
+          "mcversion" : "1.6.4",
+          "forgever" : "",
+          "mods" : {
+            "thaumcraft" : "4.0.5b"
+          }
+      }
+    }
+}
