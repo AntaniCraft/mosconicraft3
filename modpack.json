@@ -1,12 +1,12 @@
 {
-  "description" : "A pack",
-  "url" : "http://verypack.com",
+  "description" : "Mosconicraft main pack",
+  "url" : "http://mosconidebugging.biz",
   "versions" : {
-      "0.1" : {
+      "1.0" : {
           "recommended" : true,
           "latest" : true,
           "mcversion" : "1.6.4",
-          "forgever" : "",
+          "forgever" : "9.11.1.965",
           "mods" : {
             "thaumcraft" : "4.0.5b"
           }
