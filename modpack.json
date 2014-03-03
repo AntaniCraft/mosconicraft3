@@ -2,7 +2,7 @@
   "description" : "Mosconicraft main pack",
   "url" : "http://mosconidebugging.biz",
   "versions" : {
-      "1.0" : {
+      "2.0" : {
           "recommended" : true,
           "latest" : true,
           "mcversion" : "1.6.4",
