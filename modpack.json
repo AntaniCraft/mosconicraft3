@@ -4,7 +4,7 @@
   "versions" : {
       "2.0" : {
           "recommended" : true,
-          "latest" : true,
+          "latest" : false,
           "mcversion" : "1.6.4",
           "forgever" : "9.11.1.965",
           "mods" : {
@@ -28,6 +28,42 @@
 	    "stevescarts": "2.0.0.b3",
 	    "suntorch": "1.2.1",
 	    "thaumcraft": "4.0.5b",
+	    "zansminimap": "1.6.4a"
+          }
+      },
+      "2.1dev" : {
+          "recommended" : false,
+          "latest" : true,
+          "mcversion" : "1.6.4",
+          "forgever" : "9.11.1.965",
+          "mods" : {
+	    "ae": "rv13.c",
+	    "codechickencore": "0.9.0.9",
+	    "cofhcore": "2.0.0.2",
+	    "compactsolars": "4.4.20.297",
+	    "computercraft": "1.57",
+	    "damageindicators": "2.9.2.2",
+	    "extrautilities": "1.0.3a",
+	    "ic2": "2.0.397",
+	    "invtweaks": "1.56",
+	    "ironchests": "5.4.1.702",
+	    "jabba": "1.1.1a",
+	    "calclaviacore": "1.1.1.233",
+	    "uecore": "3.1.0.71",
+	    "mffs": "3.6.2.47",
+	    "mystcraft": "0.10.12.01",
+	    "nei": "1.6.1.9",
+	    "neiaddons": "1.10.4.64",
+	    "neiplugins": "1.1.0.6",
+	    "openmodslib": "0.2",
+	    "openperipheral": "0.3.1",
+	    "openperipheraladdons": "0.1.1",
+	    "railcraft": "8.4.0.0",
+	    "stevescarts": "2.0.0.b10",
+	    "suntorch": "1.2.1",
+	    "thaumcraft": "4.1.0f",
+	    "thermalexpansion": "3.0.0.2",
+	    "tinkersconstruct": "1.5.3",
 	    "zansminimap": "1.6.4a"
           }
       }
