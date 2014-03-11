@@ -138,7 +138,7 @@
 	    "tinkersconstruct": "1.5.3",
 	    "zansminimap": "1.6.4a"
           }
-      }
+      },
       "2.3dev" : {
           "recommended" : false,
           "latest" : true,
