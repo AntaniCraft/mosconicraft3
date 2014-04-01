@@ -177,7 +177,7 @@
           }
       },
       "2.3" : {
-          "recommended" : true,
+          "recommended" : false,
           "latest" : false,
           "mcversion" : "1.6.4",
           "forgever" : "9.11.1.965",
